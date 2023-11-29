@@ -24,7 +24,7 @@
 	background: hsl(0, 0%, 20%);
 	color: hsl(0, 0%, 100%);
 }
-
+//example//
 QPushButton,
 QPushButton:default,
 QPushButton:flat,
